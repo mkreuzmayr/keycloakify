@@ -306,12 +306,12 @@
     "react-syntax-highlighter_languages_refractor_yaml.js.map": "/static/js/react-syntax-highlighter_languages_refractor_yaml.3f95822e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d8e27ea9.js",
     "runtime-main.js.map": "/static/js/runtime-main.d8e27ea9.js.map",
-    "static/js/153.1c3df464.chunk.js": "/static/js/153.1c3df464.chunk.js",
-    "static/js/153.1c3df464.chunk.js.map": "/static/js/153.1c3df464.chunk.js.map",
+    "static/js/153.49bbeb79.chunk.js": "/static/js/153.49bbeb79.chunk.js",
+    "static/js/153.49bbeb79.chunk.js.map": "/static/js/153.49bbeb79.chunk.js.map",
     "static/js/154.592356a1.chunk.js": "/static/js/154.592356a1.chunk.js",
     "static/js/154.592356a1.chunk.js.map": "/static/js/154.592356a1.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/153.1c3df464.chunk.js.LICENSE.txt": "/static/js/153.1c3df464.chunk.js.LICENSE.txt",
+    "static/js/153.49bbeb79.chunk.js.LICENSE.txt": "/static/js/153.49bbeb79.chunk.js.LICENSE.txt",
     "static/media/Keycloakify_demo.5b07ad68.mp4": "/static/media/Keycloakify_demo.5b07ad68.mp4",
     "static/media/Keycloakify_demo_full-vp9-chrome.e098d057.webm": "/static/media/Keycloakify_demo_full-vp9-chrome.e098d057.webm",
     "static/media/downArrow.svg": "/static/media/downArrow.23758f40.svg",
@@ -324,7 +324,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d8e27ea9.js",
-    "static/js/153.1c3df464.chunk.js",
+    "static/js/153.49bbeb79.chunk.js",
     "static/js/main.e8665f60.chunk.js"
   ]
 }
