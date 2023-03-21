@@ -50,12 +50,12 @@ Concretely Keycloakify assumes that if there is a `public/a/b.c/foo.txt` file. T
 
 For more detailed information see [this issue](https://github.com/InseeFrLab/keycloakify/issues/5#issuecomment-832296432).
 
-#### My framework doesn’t seem to be supported, what can I do?
+#### My framework isn't supported
 
-Currently Keycloakify is only compatible with SPA React apps. It doesn’t mean that you can't use Keycloakify if you are using Next.js, Express or any other framework that involves a server but your Keycloak theme will need to be a standalone project.\
-Find specific instructions about how to get started [**here**](https://github.com/garronej/keycloakify-demo-app#keycloak-theme-only).
+It doesn’t mean that you can't use Keycloakify but your Keycloak theme will need to be a standalone project.\
+Find specific instructions about how to get started [**here**](https://github.com/codegouvfr/keycloakify-starter#standalone-keycloak-theme).
 
-To share your styles between your main app and your login pages you will need to externalize your design system by making it a separate module. Checkout [ts\_ci](https://github.com/garronej/ts\_ci), it can help with that (example with [our design system](https://github.com/InseeFrLab/onyxia-ui)).
+To share your styles between your main app and your login pages you will need to externalize your design system by making it a separate module. Checkout [ts-ci](https://github.com/garronej/ts\_ci), it can help with that (example with [our design system](https://github.com/InseeFrLab/onyxia-ui)).
 
 </details>
 
