@@ -30,9 +30,9 @@ Older version are likely to be supported as well.&#x20;
 
 ### Supported meta framworks
 
-Only create-react-app project (and by extension any setup that builds with Webpack) are supported.
+Only create-react-app projects (and by extension any setup that builds with Webpack) are supported.
 
-Next.js will never be supported , Vite isn't supported either, it could be but it would require extra work.
+Next.js will never be supported, Vite isn't supported either, it could be but it would require extra work.
 
 <details>
 

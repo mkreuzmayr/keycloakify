@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨💻 Quick start](README.md)
+* [👨💻 👨💻 Quick start](README.md)
 * [🔩 Keycloakify in my App](keycloakify-in-my-app.md)
 * [📧 Email customization](email-customization.md)
 * [✒ Terms and conditions](terms-and-conditions.md)
