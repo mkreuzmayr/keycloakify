@@ -4,14 +4,14 @@ Let's explore how we can pass query params to the URL before redirecting to the 
 
 It's up to you to implement it however you want but here's a solution off the shelf for you to use
 
-{% embed url="https://github.com/codegouvfr/keycloakify-starter/blob/main/src/keycloak-theme/valuesTransferredOverUrl.ts" %}
+{% embed url="https://github.com/codegouvfr/keycloakify-starter/blob/main/src/keycloak-theme/login/valuesTransferredOverUrl.ts" %}
 Declare the varialbes that we want to pass over, here foo and bar
 {% endembed %}
 
-{% embed url="https://github.com/codegouvfr/keycloakify-starter/blob/00059fbb805b61a7363bf58040ba471a1b1b7c43/src/App/App.tsx#L16-L23" %}
+{% embed url="https://github.com/codegouvfr/keycloakify-starter/blob/cb5844c62381efed7b303886cbe460c055a62c21/src/App/App.tsx#L21-L27" %}
 Add the value to the url before redirecting
 {% endembed %}
 
-{% embed url="https://github.com/codegouvfr/keycloakify-starter/blob/00059fbb805b61a7363bf58040ba471a1b1b7c43/src/keycloak-theme/KcApp.tsx#L8-L10" %}
+{% embed url="https://github.com/codegouvfr/keycloakify-starter/blob/cb5844c62381efed7b303886cbe460c055a62c21/src/keycloak-theme/login/KcApp.tsx#L10-L12" %}
 Using the values in the login pages
 {% endembed %}
