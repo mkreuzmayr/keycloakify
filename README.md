@@ -9,3 +9,7 @@ The README details everything there is to know and there is a lot of comments in
 {% hint style="info" %}
 If you think some key piece of information are missing like "how do I import my theme in Keycloak" please build the theme of the starter project, information will be printed in the console.&#x20;
 {% endhint %}
+
+{% embed url="https://youtu.be/WMyGZNHQkjU" %}
+A video to give you confidence that this thing actually works
+{% endembed %}
