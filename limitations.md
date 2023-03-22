@@ -8,9 +8,11 @@ To see the complete list of pages that Keycloak provide you can download the bas
 
 `npx -p keycloakify download-builtin-keycloak-theme`&#x20;
 
-Most Keycloakify component are based on the base theme of Keycloak v11.0.3 ([Video demo](https://user-images.githubusercontent.com/6702424/164304458-934b0e1d-9de7-4bb4-8a1c-e06a70b1636a.mov)). &#x20;
+[Video demo](https://user-images.githubusercontent.com/6702424/164304458-934b0e1d-9de7-4bb4-8a1c-e06a70b1636a.mov) &#x20;
 
-[Here](https://github.com/InseeFrLab/keycloakify/tree/main/src/lib/components) are the pages currently implemented by this module. &#x20;
+[Here](https://github.com/InseeFrLab/keycloakify/tree/main/src/login/pages) are the login pages currently implemented vs [all the existing pages](https://github.com/keycloak/keycloak/tree/main/themes/src/main/resources/theme/base/login). &#x20;
+
+[Here](https://github.com/InseeFrLab/keycloakify/tree/main/src/account/pages) are the acount pages currently implemented vs [all the existing pages](https://github.com/keycloak/keycloak/tree/main/themes/src/main/resources/theme/base/account).
 
 #### I have established that a page that I need isn't supported out of the box by Keycloakify, now what? &#x20;
 
@@ -94,10 +96,8 @@ Example [here](https://github.com/garronej/keycloakify-demo-app/blob/9aa2dbaec28
 * If it is possible, use Google Fonts or any other font provider.
 * You can [use non relative url](https://github.com/garronej/keycloakify-demo-app/blob/2de8a9eb6f5de9c94f9cd3991faad0377e63268c/src/fonts.scss#L16), you will need to enable [`Access-Control-Allow-Origin`](https://github.com/garronej/keycloakify-demo-app/blob/2de8a9eb6f5de9c94f9cd3991faad0377e63268c/nginx.conf#L17-L19) for your font files, even on the same domain.
 
-### login and email only
+### Admin Console Theme not supported
 
-![](.gitbook/assets/image.png)
-
-As of now Keycloakify only enable you to create a theme that covers the Login pages and the emails. `Acount` and `Admin Console` aren't supported yet.
+<figure><img src=".gitbook/assets/Admin_console_theme_not_supported.png" alt=""><figcaption></figcaption></figure>
 
 If you are missing this feature [open an issue about it](https://github.com/InseeFrLab/keycloakify/issues/new).
